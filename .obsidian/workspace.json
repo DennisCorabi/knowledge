@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Zettelkasten.md",
+                "file": "2 - Source Material/Articles/Zettelkasten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Zettelkasten.md",
+                "file": "2 - Source Material/Articles/Zettelkasten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,13 +80,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d40d105b152d0d4a",
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/Zettelkasten.md",
+                "file": "2 - Source Material/Articles/Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/Zettelkasten.md",
+                "file": "2 - Source Material/Articles/Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/Zettelkasten.md"
+                "file": "2 - Source Material/Articles/Zettelkasten.md"
               }
             }
           },
@@ -175,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16e3061b936b651b",
+  "active": "e48cb3c4b9108c87",
   "lastOpenFiles": [
     "3 - Tags/knowledge management.md",
-    "6 - Atomic Notes/Zettelkasten.md",
+    "2 - Source Material/Articles/Zettelkasten.md",
     "5 - Templates/Full Note.md",
     "6 - Atomic Notes/zette.md",
     "2 - Source Material/Articles/Untitled.md",
