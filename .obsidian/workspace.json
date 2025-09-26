@@ -4,37 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "a04f1898b2e8be0a",
+        "id": "98c964e5431ed90d",
         "type": "tabs",
         "children": [
           {
-            "id": "314738476ffc4026",
+            "id": "663567a6dec27e1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Articles/Zettelkasten.md",
+                "file": "Literature/linear programming 2025-09-24.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16e3061b936b651b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Articles/Zettelkasten.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "linear programming 2025-09-24"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,8 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -69,7 +69,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -100,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Articles/Zettelkasten.md",
+                "file": "4 - Drafts/linear programming 2025-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for linear programming 2025-09-24"
             }
           },
           {
@@ -117,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Articles/Zettelkasten.md",
+                "file": "4 - Drafts/linear programming 2025-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from linear programming 2025-09-24"
             }
           },
           {
@@ -130,8 +138,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,8 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Articles/Zettelkasten.md"
-              }
+                "file": "4 - Drafts/linear programming 2025-09-24.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of linear programming 2025-09-24"
             }
           },
           {
@@ -153,7 +170,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -165,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -173,22 +193,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e48cb3c4b9108c87",
+  "active": "663567a6dec27e1c",
   "lastOpenFiles": [
-    "3 - Tags/knowledge management.md",
-    "2 - Source Material/Articles/Zettelkasten.md",
-    "5 - Templates/Full Note.md",
+    "Literature/operations research 2025-09-24.md",
+    "Literature/linear programming 2025-09-24.md",
+    "Fleeting",
+    "Source/Untitled",
+    "Literature/simplex method 2025-09-24.md",
+    "Literature/assets/lp-standard-form.png",
+    "Literature/assets/lp-augmented-form.png",
+    "Literature/assets/IMG_4293.heic",
+    "Permanent/Operations research/Linear programming.md",
+    "Tags/operational research.md",
+    "4 - Drafts/assets/Pasted image 20250924212410.png",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Literature/assets",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Tags/pure math.md",
+    "Tags/knowledge management.md",
+    "Permanent/Zettelkasten.md",
+    "Permanent/Number theory/Cryptography.md",
+    "3 - Tags/hidden.md",
+    "Templates/Full Note.md",
+    "Literature",
+    "Tags/applied math.md",
     "6 - Atomic Notes/zette.md",
     "2 - Source Material/Articles/Untitled.md",
-    "2 - Source Material/Articles",
     "202407131723.md",
-    "6 - Atomic Notes",
-    "5 - Templates",
-    "4 - Indexes",
-    "3 - Tags",
-    "2 - Source Material",
-    "Welcome.md",
-    "1 - Drafts",
-    "Knwo"
+    "Welcome.md"
   ]
 }

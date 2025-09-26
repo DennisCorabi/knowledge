@@ -1,5 +1,8 @@
 {
   "attachmentFolderPath": "./assets",
   "newFileLocation": "folder",
-  "newFileFolderPath": "6 - Atomic Notes"
+  "newFileFolderPath": "6 - Atomic Notes",
+  "vimMode": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
